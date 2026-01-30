@@ -66,31 +66,31 @@ Dashboard ile günlük iş özeti, hızlı istatistikler ve bekleyen işlerin g�
 ### İş Takibi
 Gelişmiş filtreleme, arama özellikleri, yeni iş ekleme ve durum güncelleme.
 
-![İşler](screenshots/isler.jpg)
-![İşler Filtre](screenshots/isler-filtre.jpg)
-![İş Detay](screenshots/is-detay.jpg)
-![İş Duzenle](screenshots/is-duzenle.jpg)
-![İş Duzenle](screenshots/is-duzenle2.jpg)
-![İşe Personel Ekle](screenshots/is-personel-ekle.jpg)
-![İş Ekle](screenshots/is-ekle.jpg)
-![İş Ekle](screenshots/is-ekle2.jpg)
+![İşler](screenshots/isler.png)
+![İşler Filtre](screenshots/isler-filtre.png)
+![İş Detay](screenshots/is-detay.png)
+![İş Duzenle](screenshots/is-duzenle.png)
+![İş Duzenle](screenshots/is-duzenle2.png)
+![İşe Personel Ekle](screenshots/is-personel-ekle.png)
+![İş Ekle](screenshots/is-ekle.png)
+![İş Ekle](screenshots/is-ekle2.png)
 
 ### Personel Yönetimi
 Personel listesi, detay görünümleri, düzenleme formları ve iş atamaları.
 
-![Personeller](screenshots/personeller.jpg)
-![Personel Detay](screenshots/personel-detay.jpg)
-![Personel Detay](screenshots/personel-detay2.jpg)
-![Personel Düzenle](screenshots/personel-duzenle.jpg)
+![Personeller](screenshots/personeller.png)
+![Personel Detay](screenshots/personel-detay.png)
+![Personel Detay](screenshots/personel-detay2.png)
+![Personel Düzenle](screenshots/personel-duzenle.png)
 
 
 ### Tahsilat Takibi
 Ödeme takibi, detaylı geçmiş kayıtlar ve finansal raporlar.
 
-![Tahsilatlar](screenshots/tahsilatlar.jpg)
-![Tahsilat Detay](screenshots/tahsilat-detay.jpg)
-![Ödeme Ekle](screenshots/odeme-ekle.jpg)
-![Tahsilat Ekle](screenshots/tahsilat-ekle.jpg)
+![Tahsilatlar](screenshots/tahsilatlar.png)
+![Tahsilat Detay](screenshots/tahsilat-detay.png)
+![Ödeme Ekle](screenshots/odeme-ekle.png)
+![Tahsilat Ekle](screenshots/tahsilat-ekle.png)
 
 
 
