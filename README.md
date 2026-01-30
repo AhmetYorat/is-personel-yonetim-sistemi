@@ -58,39 +58,63 @@ yola çıkılarak geliştirilmiş ve aktif olarak kullanılmaktadır.
 ### Ana Sayfa
 Dashboard ile günlük iş özeti, hızlı istatistikler ve bekleyen işlerin görüntülenmesi.
 
-![Ana Sayfa](screenshots/anasayfa.jpg)
-![Ana Sayfa](screenshots/anasayfa2.jpg)
+<p align="center">
+  <img src="screenshots/anasayfa.jpg" width="280">
+  <img src="screenshots/anasayfa2.jpg" width="280">
+</p>
 
-
+---
 
 ### İş Takibi
 Gelişmiş filtreleme, arama özellikleri, yeni iş ekleme ve durum güncelleme.
 
-![İşler](screenshots/isler.png)
-![İşler Filtre](screenshots/isler-filtre.png)
-![İş Detay](screenshots/is-detay.png)
-![İş Duzenle](screenshots/is-duzenle.png)
-![İş Duzenle](screenshots/is-duzenle2.png)
-![İşe Personel Ekle](screenshots/is-personel-ekle.png)
-![İş Ekle](screenshots/is-ekle.png)
-![İş Ekle](screenshots/is-ekle2.png)
+<p align="center">
+  <img src="screenshots/isler.png" width="260">
+  <img src="screenshots/isler-filtre.png" width="260">
+  <img src="screenshots/is-detay.png" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/is-duzenle.png" width="260">
+  <img src="screenshots/is-duzenle2.png" width="260">
+  <img src="screenshots/is-personel-ekle.png" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/is-ekle.png" width="260">
+  <img src="screenshots/is-ekle2.png" width="260">
+</p>
+
+---
 
 ### Personel Yönetimi
 Personel listesi, detay görünümleri, düzenleme formları ve iş atamaları.
 
-![Personeller](screenshots/personeller.png)
-![Personel Detay](screenshots/personel-detay.png)
-![Personel Detay](screenshots/personel-detay2.png)
-![Personel Düzenle](screenshots/personel-duzenle.png)
+<p align="center">
+  <img src="screenshots/personeller.png" width="260">
+  <img src="screenshots/personel-detay.png" width="260">
+  <img src="screenshots/personel-detay2.png" width="260">
+</p>
 
+<p align="center">
+  <img src="screenshots/personel-duzenle.png" width="260">
+</p>
+
+---
 
 ### Tahsilat Takibi
 Ödeme takibi, detaylı geçmiş kayıtlar ve finansal raporlar.
 
-![Tahsilatlar](screenshots/tahsilatlar.png)
-![Tahsilat Detay](screenshots/tahsilat-detay.png)
-![Ödeme Ekle](screenshots/odeme-ekle.png)
-![Tahsilat Ekle](screenshots/tahsilat-ekle.png)
+<p align="center">
+  <img src="screenshots/tahsilatlar.png" width="260">
+  <img src="screenshots/tahsilat-detay.png" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/odeme-ekle.png" width="260">
+  <img src="screenshots/tahsilat-ekle.png" width="260">
+</p>
+
 
 
 
