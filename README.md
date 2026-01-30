@@ -119,17 +119,6 @@ Personel listesi, detay görünümleri, düzenleme formları ve iş atamaları.
 
 
 
-
-## 💻 Geliştirme Süreci
-
-Bu proje modern AI-assisted development metodolojisi kullanılarak geliştirilmiştir:
-
-- ✅ İhtiyaç analizi ve sistem tasarımı manuel olarak yapıldı
-- ✅ Flutter temelleri Bootcamp eğitimiyle öğrenildi
-- ✅ Karmaşık özellikler için AI araçları (ChatGPT/Claude) danışman olarak kullanıldı
-- ✅ Tüm kod anlaşılarak entegre edildi ve kapsamlı testlerden geçirildi
-- ✅ Gerçek dünya kullanımıyla iteratif olarak geliştirildi ve optimize edildi
-
 ## 🎓 Öğrendiklerim
 
 - **Complex State Management** - Çoklu veri modeli ve ilişkileri yönetme
