@@ -59,8 +59,8 @@ yola çıkılarak geliştirilmiş ve aktif olarak kullanılmaktadır.
 Dashboard ile günlük iş özeti, hızlı istatistikler ve bekleyen işlerin görüntülenmesi.
 
 <p align="center">
-  <img src="screenshots/anasayfa.jpg" width="280">
-  <img src="screenshots/anasayfa2.jpg" width="280">
+  <img src="screenshots/anasayfa.png" width="280">
+  <img src="screenshots/anasayfa2.png" width="280">
 </p>
 
 ---
