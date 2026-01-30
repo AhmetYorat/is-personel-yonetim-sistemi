@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647861551924",
+    "project_id": "personel-takip-4e6e2",
+    "storage_bucket": "personel-takip-4e6e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647861551924:android:1354471cc2a774a938db61",
+        "android_client_info": {
+          "package_name": "com.example.personel_takip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647861551924-am3lvt74g0tfupcm2fruigi9i3m0mnci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personel_takip",
+            "certificate_hash": "5624fec53e4cf6f780686aff0dbc1ba79d364d6e"
+          }
+        },
+        {
+          "client_id": "647861551924-2afcrsq75ond0tsms1jjrmdpj9ia92nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRFDbLLE16DVMfMVQkNG70d2j68530uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647861551924-2afcrsq75ond0tsms1jjrmdpj9ia92nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
