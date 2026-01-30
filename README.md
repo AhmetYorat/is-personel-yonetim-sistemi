@@ -58,14 +58,43 @@ yola çıkılarak geliştirilmiş ve aktif olarak kullanılmaktadır.
 ### Ana Sayfa
 Dashboard ile günlük iş özeti, hızlı istatistikler ve bekleyen işlerin görüntülenmesi.
 
-### Personel Yönetimi
-Personel listesi, detay görünümleri, düzenleme formları ve iş atamaları.
+![Ana Sayfa](screenshots/anasayfa.jpg)
+![Ana Sayfa](screenshots/anasayfa2.jpg)
+
+
 
 ### İş Takibi
 Gelişmiş filtreleme, arama özellikleri, yeni iş ekleme ve durum güncelleme.
 
+![İşler](screenshots/isler.jpg)
+![İşler Filtre](screenshots/isler-filtre.jpg)
+![İş Detay](screenshots/is-detay.jpg)
+![İş Duzenle](screenshots/is-duzenle.jpg)
+![İş Duzenle](screenshots/is-duzenle2.jpg)
+![İşe Personel Ekle](screenshots/is-personel-ekle.jpg)
+![İş Ekle](screenshots/is-ekle.jpg)
+![İş Ekle](screenshots/is-ekle2.jpg)
+
+### Personel Yönetimi
+Personel listesi, detay görünümleri, düzenleme formları ve iş atamaları.
+
+![Personeller](screenshots/personeller.jpg)
+![Personel Detay](screenshots/personel-detay.jpg)
+![Personel Detay](screenshots/personel-detay2.jpg)
+![Personel Düzenle](screenshots/personel-duzenle.jpg)
+
+
 ### Tahsilat Takibi
 Ödeme takibi, detaylı geçmiş kayıtlar ve finansal raporlar.
+
+![Tahsilatlar](screenshots/tahsilatlar.jpg)
+![Tahsilat Detay](screenshots/tahsilat-detay.jpg)
+![Ödeme Ekle](screenshots/odeme-ekle.jpg)
+![Tahsilat Ekle](screenshots/tahsilat-ekle.jpg)
+
+
+
+
 
 ## 💻 Geliştirme Süreci
 
